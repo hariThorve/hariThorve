@@ -2,17 +2,17 @@
 
 🔭 I’m currently working on:
 
-Building end-to-end machine learning pipelines with data ingestion, experiment tracking (MLflow), and model evaluation.
+* Building end-to-end machine learning pipelines with data ingestion, experiment tracking (MLflow), and model evaluation.
 
-Applying AI/ML techniques to improve efficiency and utilization of HPC/HTC systems using real workload datasets.
+* Applying AI/ML techniques to improve efficiency and utilization of HPC/HTC systems using real workload datasets.
 
 🌱 I’m currently learning:
 
-Advanced deep learning (ANNs, CNNs, RNNs/LSTMs) and the mathematical intuition behind backpropagation and attention.
+* Advanced deep learning (ANNs, CNNs, RNNs/LSTMs) and the mathematical intuition behind backpropagation and attention.
 
-Large Language Models, transformers, and practical MLOps for deploying models in production.
+* Large Language Models, transformers, and practical MLOps for deploying models in production.
 
-Full‑stack development with Java Spring Boot and JavaScript/React to build ML-powered web applications.
+* Full‑stack development with JavaScript/React to build ML-powered web applications.
 
 👯 I’m looking to collaborate on:
 
@@ -31,10 +31,6 @@ Best practices for scaling experiments, using MLOps tools, and contributing to i
 Python for data science and backend development, ML fundamentals, evaluation metrics, and experiment tracking.
 
 Designing ML project pipelines from problem statement to deployment, including HPC workload prediction use cases.
-
-📫 How to reach me:
-
-[Email](hariprasadthorve@gmail.com) [Linkedin](www.linkedin.com/in/hariprasad-thorve-b36071271) [Instagram](https://www.instagram.com/hari_thorve).​
 
 ⚡ Fun fact:
 

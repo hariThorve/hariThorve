@@ -16,25 +16,25 @@
 
 👯 I’m looking to collaborate on:
 
-Open-source AI/ML projects, especially around LLMs, NLP, and model deployment.
+* Open-source AI/ML projects, especially around LLMs, NLP, and model deployment.
 
-Research-oriented projects involving workload prediction, scheduling, or optimization for HPC/HTC clusters.
+* Research-oriented projects involving workload prediction, scheduling, or optimization for HPC/HTC clusters.
 
 🤔 I’m looking for help with:
 
-Breaking into research roles in ML and LLMs, and strengthening my roadmap toward a research scientist position.
+* Breaking into research roles in ML and LLMs, and strengthening my roadmap toward a research scientist position.
 
-Best practices for scaling experiments, using MLOps tools, and contributing to impactful AI research communities.
+* Best practices for scaling experiments, using MLOps tools, and contributing to impactful AI research communities.
 
 💬 Ask me about:
 
-Python for data science and backend development, ML fundamentals, evaluation metrics, and experiment tracking.
+* Python for data science and backend development, ML fundamentals, evaluation metrics, and experiment tracking.
 
-Designing ML project pipelines from problem statement to deployment, including HPC workload prediction use cases.
+* Designing ML project pipelines from problem statement to deployment, including HPC workload prediction use cases.
 
 ⚡ Fun fact:
 
-Balancing an AI/ML engineering journey with daily workouts and experimenting in the kitchen to fuel long coding and research sessions.
+* Balancing an AI/ML engineering journey with daily workouts and experimenting in the kitchen to fuel long coding and research sessions.
 
 
 ## 🌐 Socials:

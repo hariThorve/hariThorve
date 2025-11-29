@@ -1,19 +1,44 @@
 ## Hi there 👋
 
-<!--
-**hariThorve/hariThorve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
 
-Here are some ideas to get you started:
+Building end-to-end machine learning pipelines with data ingestion, experiment tracking (MLflow), and model evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Applying AI/ML techniques to improve efficiency and utilization of HPC/HTC systems using real workload datasets.
+
+🌱 I’m currently learning:
+
+Advanced deep learning (ANNs, CNNs, RNNs/LSTMs) and the mathematical intuition behind backpropagation and attention.
+
+Large Language Models, transformers, and practical MLOps for deploying models in production.
+
+Full‑stack development with Java Spring Boot and JavaScript/React to build ML-powered web applications.
+
+👯 I’m looking to collaborate on:
+
+Open-source AI/ML projects, especially around LLMs, NLP, and model deployment.
+
+Research-oriented projects involving workload prediction, scheduling, or optimization for HPC/HTC clusters.
+
+🤔 I’m looking for help with:
+
+Breaking into research roles in ML and LLMs, and strengthening my roadmap toward a research scientist position.
+
+Best practices for scaling experiments, using MLOps tools, and contributing to impactful AI research communities.
+
+💬 Ask me about:
+
+Python for data science and backend development, ML fundamentals, evaluation metrics, and experiment tracking.
+
+Designing ML project pipelines from problem statement to deployment, including HPC workload prediction use cases.
+
+📫 How to reach me:
+
+[Email](hariprasadthorve@gmail.com) [Linkedin](www.linkedin.com/in/hariprasad-thorve-b36071271) [Instagram](https://www.instagram.com/hari_thorve).​
+
+⚡ Fun fact:
+
+Balancing an AI/ML engineering journey with daily workouts and experimenting in the kitchen to fuel long coding and research sessions.
 
 
 ## 🌐 Socials:

@@ -1,40 +1,14 @@
-## Hi there 👋
+## 👋 About Me
 
-🔭 I’m currently working on:
+Hi there! I'm a passionate developer who enjoys turning ideas into impactful digital solutions. I’m currently focused on enhancing my skills in software development and exploring emerging technologies that shape the future of tech.
 
-* Building end-to-end machine learning pipelines with data ingestion, experiment tracking (MLflow), and model evaluation.
+- 💻 I work on building efficient and scalable applications.  
+- 🚀 I’m interested in web development, open-source projects, and cloud technologies.  
+- 🎯 My goal is to pursue a career in software engineering and contribute to meaningful projects that make a difference.  
+- 📚 I’m always eager to learn, collaborate, and grow through new challenges.  
+- ⚡ Fun fact: I love solving problems that blend creativity and logic.
 
-* Applying AI/ML techniques to improve efficiency and utilization of HPC/HTC systems using real workload datasets.
-
-🌱 I’m currently learning:
-
-* Advanced deep learning (ANNs, CNNs, RNNs/LSTMs) and the mathematical intuition behind backpropagation and attention.
-
-* Large Language Models, transformers, and practical MLOps for deploying models in production.
-
-* Full‑stack development with JavaScript/React to build ML-powered web applications.
-
-👯 I’m looking to collaborate on:
-
-* Open-source AI/ML projects, especially around LLMs, NLP, and model deployment.
-
-* Research-oriented projects involving workload prediction, scheduling, or optimization for HPC/HTC clusters.
-
-🤔 I’m looking for help with:
-
-* Breaking into research roles in ML and LLMs, and strengthening my roadmap toward a research scientist position.
-
-* Best practices for scaling experiments, using MLOps tools, and contributing to impactful AI research communities.
-
-💬 Ask me about:
-
-* Python for data science and backend development, ML fundamentals, evaluation metrics, and experiment tracking.
-
-* Designing ML project pipelines from problem statement to deployment, including HPC workload prediction use cases.
-
-⚡ Fun fact:
-
-* Balancing an AI/ML engineering journey with daily workouts and experimenting in the kitchen to fuel long coding and research sessions.
+Let’s connect and build something amazing together!
 
 
 ## 🌐 Socials:

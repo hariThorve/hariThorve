@@ -1,14 +1,51 @@
-## 👋 About Me
+# Hariprasad R. Thorve
 
-Hi there! I'm a passionate developer who enjoys turning ideas into impactful digital solutions. I’m currently focused on enhancing my skills in software development and exploring emerging technologies that shape the future of tech.
+Engineering student focused on Machine Learning, Data Science, and end-to-end AI systems. Building a career path toward applied ML roles, with a long-term goal of becoming a research scientist specializing in ML and Large Language Models.
 
-- 💻 I work on building efficient and scalable applications.  
-- 🚀 I’m interested in web development, open-source projects, and cloud technologies.  
-- 🎯 My goal is to pursue a career in software engineering and contribute to meaningful projects that make a difference.  
-- 📚 I’m always eager to learn, collaborate, and grow through new challenges.  
-- ⚡ Fun fact: I love solving problems that blend creativity and logic.
+---
 
-Let’s connect and build something amazing together!
+## 🚀 About Me  
+- Engineering student specializing in AIML and Data Science. 
+- Career goal: Secure a role in ML/Data Science.
+- Long-term goal: Research Scientist in ML and LLMs.  
+- Hands-on experience with TensorFlow, model training workflows, LLM finetuning, and full-stack deployment.  
+- Exploring React.js and Node.js for building platforms to showcase projects.
+- Focused on execution, discipline, and delivering results.
+
+---
+
+## 🧠 Technical Focus  
+### **Machine Learning & AI**
+- Model training and evaluation
+- Machine learning Algorithms 
+- CNNs, RNNs, LSTMs  
+- LLM finetuning (SFT, QLoRA, Unsloth)  
+- Data preprocessing and feature engineering  
+
+### **Deep Learning Frameworks**
+- TensorFlow  
+- PyTorch (learning)  
+- Unsloth + Hugging Face  
+
+### **Full-Stack Tools**
+- React.js  
+- Node.js / Express  
+- REST APIs  
+
+### **Core Skills**
+- Python, JavaScript  
+- DSA fundamentals  
+- Problem-solving and algorithmic thinking 
+
+---
+
+## 🏋️ Discipline & Performance  
+Consistent training—both physical and technical.  
+Workout routine + volleyball keep focus sharp and execution steady.
+
+---
+
+**Focused. Consistent. Building toward research-level mastery in ML and LLMs.**
 
 
 ## 🌐 Socials:
